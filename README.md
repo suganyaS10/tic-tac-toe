@@ -1,3 +1,6 @@
+I have followed this tutorial https://reactjs.org/tutorial/tutorial.html to build a simple tic-tac-toe gaming Single Page Application.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
